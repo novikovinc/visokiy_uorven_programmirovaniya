@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zada4a po fizike", "zada4a po fizike.vcxproj", "{0073363E-F216-4A4B-8066-4B487AC60302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0073363E-F216-4A4B-8066-4B487AC60302}.Debug|x64.ActiveCfg = Debug|x64
+		{0073363E-F216-4A4B-8066-4B487AC60302}.Debug|x64.Build.0 = Debug|x64
+		{0073363E-F216-4A4B-8066-4B487AC60302}.Debug|x86.ActiveCfg = Debug|Win32
+		{0073363E-F216-4A4B-8066-4B487AC60302}.Debug|x86.Build.0 = Debug|Win32
+		{0073363E-F216-4A4B-8066-4B487AC60302}.Release|x64.ActiveCfg = Release|x64
+		{0073363E-F216-4A4B-8066-4B487AC60302}.Release|x64.Build.0 = Release|x64
+		{0073363E-F216-4A4B-8066-4B487AC60302}.Release|x86.ActiveCfg = Release|Win32
+		{0073363E-F216-4A4B-8066-4B487AC60302}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {086B1531-C1D9-4F5E-B455-76F79CD989EA}
+	EndGlobalSection
+EndGlobal
